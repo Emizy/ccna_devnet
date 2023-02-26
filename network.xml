@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+    <S:Body>
+        <ns3:subscribeProductResponse xmlns:ns2="http://www.huawei.com.cn/schema/common/v2_1"
+                                      xmlns:ns3="http://www.csapi.org/schema/parlayx/subscribe/manage/v1_0/local">
+            <ns3:subscribeProductRsp>
+                <result>0</result>
+            </ns3:subscribeProductRsp>
+        </ns3:subscribeProductResponse>
+    </S:Body>
+</S:Envelope>

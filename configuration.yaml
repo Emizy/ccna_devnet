@@ -1,0 +1,6 @@
+rpc:
+  edit-config:
+    default-operation:
+      action: merge
+      description: To merge a file
+    target: candidate

@@ -1,0 +1,4 @@
+rpc:
+  edit-config:
+    default-operation: merge
+    target: candidate
